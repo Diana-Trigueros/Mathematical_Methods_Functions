@@ -1,5 +1,5 @@
-# Genera las figuras del trabajo (opcional, recomendación 4 del enunciado).
-# Uso:  python figuras.py   ->  crea fig1A.pdf, fig1Ap.pdf, ...  en la carpeta actual
+# Genera las figuras del trabajo
+# python figuras.py   ->  crea fig1A.pdf, fig1Ap.pdf...  en la carpeta actual
 import numpy as np, matplotlib
 matplotlib.use("Agg")
 import matplotlib.pyplot as plt
